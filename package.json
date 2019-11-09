@@ -4,11 +4,13 @@
   "description": "This is a test of git/npm",
   "main": "index.js",
   "scripts": {
+    "serve": "live-server public/ --port=8001 --browser=chrome",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "live-server": "^1.2.1",
     "yarn": "^1.19.1"
   }
 }

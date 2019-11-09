@@ -1,0 +1,500 @@
+  176  node app.js 
+  177  node app.js 
+  178  node app.js 
+  179  node app.js 
+  180  node app.js 
+  181  node app.js 
+  182  node app.js 
+  183  heroku login
+  184  cd ..
+  185  ls
+  186  git clone https://github.com/heroku/node-js-getting-started.git
+  187  ls
+  188  cd node-js-getting-started/
+  189  ls
+  190  heroku create
+  191  git push heroku master
+  192  heroku open
+  193  code
+  194  ls
+  195  node index
+  196  exit
+  197  cd node
+  198  ls
+  199  cd node-js-getting-started/
+  200  ls
+  201  heroku open
+  202  exit
+  203  ls
+  204  cd node
+  205  cd ..
+  206  cd gp
+  207  cd go
+  208  ls
+  209  cd src/
+  210  ls
+  211  cd ..
+  212  cd ..
+  213  ls
+  214  cd
+  215  cd node
+  216  cd ../go/src/github.com/heroku/
+  217  ls
+  218  heroku login
+  219  ls
+  220  cd go-getting-started/
+  221  ls
+  222  heroku open
+  223  code
+  224  cd 
+  225  cd go
+  226  cd src
+  227  dir
+  228  cd xxbicats_pdfgen
+  229  ls
+  230  ls *.xml
+  231  xxbicats_pdfgen.exe o107152190.xml EBSTEST_107152190.pdf
+  232  dir
+  233  ./xxbicats_pdfgen.exe o107152190.xml EBSTEST_107152190.pdf
+  234  exit
+  235  ls
+  236  mkdir docker
+  237  cd docker/
+  238  git clone https://github.com/dockersamples/linux_tweet_app
+  239  ls
+  240  cd linux_tweet_app/
+  241  ls
+  242  cat Dockerfile 
+  243  export DOCKERID=rileycarrier
+  244  echo $DOCKERID
+  245  docker image build
+  246  ls
+  247  exit
+  248  e:
+  249  df
+  250  cd /e
+  251  cd rc
+  252  cd Downloads/journey-windows-4.0-amd64
+  253  ls
+  254  ls -l
+  255  ./journey 
+  256  ls
+  257  code
+  258  ./journey 
+  259  ./journey 
+  260  ps
+  261  ./journey 
+  262  xeit
+  263  exit
+  264  cd go
+  265  ls
+  266  go get github.com/dingoblog/dingo
+  267  ls
+  268  cd src
+  269  ls
+  270  cd github.com/
+  271  ls
+  272  cd dingoblog/
+  273  ls
+  274  cd dingo
+  275  ls
+  276  go run main.go --port 8000
+  277  gcc
+  278  go -?
+  279  go install sqlite3
+  280  pwd
+  281  ls
+  282  go run main.go --port 8000
+  283  go install go-sqlite3
+  284  go get go-sqlite3
+  285  go get github.com/mattn/go-sqlite3
+  286  gcc
+  287  exit
+  288  pwd
+  289  ls
+  290  mkdir react
+  291  cd react
+  292  npx create-react-app my-app
+  293  cd my-app/
+  294  npm start
+  295  ls
+  296  cat package.json 
+  297  cd src
+  298  ls
+  299  cd index.js 
+  300  code
+  301  grep 3000 *
+  302  grep -drecurse 3000 *
+  303  grep
+  304  grep --help
+  305  grep -r 3000 *
+  306  ls
+  307  cd ..
+  308  grep -r 3000 *
+  309  grep 3000 *
+  310  ls
+  311  cd public/
+  312  ls
+  313  grep 3000 *
+  314  cd ../src
+  315  grep 3000 *
+  316  cd ..
+  317  grep -r 3000 *
+  318  clear
+  319  ls
+  320  cat package.json 
+  321  ls
+  322  cat package-lock.json
+  323  ls
+  324  cd public/
+  325  ls
+  326  cat manifest.json 
+  327  cat index.html 
+  328  cd ..
+  329  cd src
+  330  ls
+  331  pwd
+  332  cd ..
+  333  ls
+  334  cd src
+  335  ls
+  336  npm start
+  337  netstat -l
+  338  netstat -a
+  339  clear
+  340  exit
+  341  pwd
+  342  cd /
+  343  pwd
+  344  cd c
+  345  pwd
+  346  ls
+  347  cd Angular/
+  348  ls
+  349  mkdir stubs
+  350  cd stubs/
+  351  mkdir mods
+  352  cd mods
+  353  code index.js
+  354  node index.js 
+  355  node index.js 
+  356  node index.js 
+  357  node index.js 
+  358  node index.js 
+  359  node index.js 
+  360  node index.js 
+  361  node index.js 
+  362  node index.js 
+  363  node -version
+  364  node -v
+  365  node -v
+  366  node index.js 
+  367  node index.js 
+  368  node index.js 
+  369  node index.js 
+  370  node index.js 
+  371  node index.js 
+  372  node index.js 
+  373  node index.js 
+  374  exit
+  375  pwd
+  376  cd /wamp
+  377  cd /c
+  378  ls
+  379  cd wamp64/
+  380  cd www
+  381  ls
+  382  cd cl-20190803/
+  383  ls
+  384  cd wp-content/
+  385  ls
+  386  cd themes/
+  387  cd clo
+  388  grep -r -i container .
+  389  node -v
+  390  npm -v
+  391  npm install -g yarn
+  392  yarn --version
+  393  pwd
+  394  cd /c/wamp64/www/cl-20190803/
+  395  ls
+  396  cd wp-content/themes/
+  397  ls
+  398  cd clo
+  399  ls
+  400  grep -r -i find *
+  401  grep -r -i -l find *
+  402  grep -r -i -l social-inline *
+  403  grep -r -i -l social *
+  404  grep -r -i -l col-sm-1 *
+  405  grep -r -i -l social-icon *
+  406  grep -r -i -l social *
+  407  grep -r -i social *
+  408  grep -r -i -l social-inline *
+  409  grep -r -i -l social-inline .
+  410  pwd
+  411  grep -r -i -l social .
+  412  grep -r -i -l social_icons .
+  413  grep -r -i -l blog .
+  414  grep -r -i -l Tumblr.png .
+  415  grep -r -i -l social .
+  416  exit
+  417  curl -L https://unpkg.com/react@16.0.0/umd/react.develolpment.js
+  418  curl -L https://unpkg.com/react@16.7.0/umd/react.develolpment.js
+  419  pwd
+  420  cd /c/ReactProjects/CompleteReactDeveloper/
+  421  cd indecision-app/
+  422  ls
+  423  yarn init
+  424  yarn --version
+  425  pwd
+  426  cd /c
+  427  cd react
+  428  ls
+  429  cd..
+  430  cd ..
+  431  mkdir ReactProjects
+  432  cd ReactProjects/
+  433  mkdir CompleteReactDeveloper
+  434  cd CompleteReactDeveloper/
+  435  mkdir indecision-app
+  436  cd indecision-app/
+  437  code
+  438  pwd
+  439  yarn global add live-server
+  440  live-server -v
+  441  npm install -g live-server
+  442  live-server -v
+  443  ls
+  444  clear
+  445  live-server public
+  446  ls
+  447  netstat -ano | find "8080"
+  448  netstat -ano | grep "8080"
+  449  live-server -?
+  450  live-server /?
+  451  live-server -h
+  452  live-server --port=8001 public
+  453  pwd
+  454  live-server --port=8001 public
+  455  yarn global add bable-cli@6.24.1
+  456  npm install -g babel-cli@6.24.1
+  457  npm install -g babel-cli@6.24.1
+  458  cls
+  459  clear
+  460  npm install init
+  461  yarn init
+  462  npm install babel-preset-react@6.24.1
+  463  clear
+  464  yarn global add babel-cli@6.24.1
+  465  babel
+  466  babel --help
+  467  clear
+  468  yarn init
+  469  ls
+  470  clear
+  471  live-server --port=8001 public
+  472  live-server --port=8001 public
+  473  clear
+  474  ls
+  475  pwd
+  476  cd /
+  477  cd /c
+  478  ls
+  479  cd js
+  480  ls
+  481  cd client
+  482  ls
+  483  cd .
+  484  cd ..
+  485  ls
+  486  https://github.com/node-red/node-red.git
+  487  exit
+  488  pwd
+  489  cd /c/js
+  490  git clone https://github.com/node-red/node-red.git
+  491  ls
+  492  cd node-red/
+  493  ls
+  494  code
+  495  node run start
+  496  node start
+  497  pwd
+  498  npm install
+  499  npm run build
+  500  npm start
+  501  cd
+  502  pwd
+  503  ls
+  504  cd /
+  505  pwd
+  506  ls
+  507  cd /c
+  508  pwd
+  509  ls
+  510  cd SourceCode/
+  511  ls
+  512  mkdir test
+  513  cd test
+  514  git init
+  515  ls
+  516  ls -la
+  517  get status
+  518  git status
+  519  code
+  520  code .
+  521  ls
+  522  ls -la
+  523  pwd
+  524  ls
+  525  md public
+  526  mkdir public
+  527  ls
+  528  mkdir src
+  529  git add assets
+  530  git add public
+  531  git add src
+  532  git status
+  533  cd public
+  534  touch index.html
+  535  live-server
+  536  cd ..
+  537  dir
+  538  ls
+  539  cd ..
+  540  ls
+  541  git clone test test2
+  542  ls
+  543  cd test2
+  544  ls
+  545  ls -la
+  546  cd ..
+  547  cd test
+  548  ls
+  549  commit
+  550  git status
+  551  cd public/
+  552  ls
+  553  gitadd index.html 
+  554  git add index.html 
+  555  ls
+  556  git status
+  557  cd ..
+  558  git commit "Story 001: My First Commit"
+  559  git status
+  560  pwd
+  561  git commit -m "Story 001: My First Commit"
+  562  git status
+  563  cd ..
+  564  ls
+  565  rmdir test2
+  566  cd test2
+  567  dir
+  568  ls -la
+  569  cd ..
+  570  ls
+  571  git clone test test3
+  572  ls
+  573  cd test3
+  574  dir
+  575  cd ..
+  576  pwd
+  577  ls
+  578  mkdir npm-test1
+  579  cd npm-test1/
+  580  npminit
+  581  npm init
+  582  git status
+  583  git init
+  584  git status
+  585  npm install yarn
+  586  ls
+  587  ls node_modules/
+  588  yarn add live-server
+  589  ls
+  590  ls node_modules/
+  591  pwd
+  592  git status
+  593  git add
+  594  git add .
+  595  git status
+  596  cd ..
+  597  ls
+  598  mkdir npm-test2
+  599  cd npm-test2
+  600  ls
+  601  git init
+  602  mkdir public
+  603  mkdir images
+  604  mkdir assets
+  605  mkdir src
+  606  ls
+  607  cd public
+  608  copy ..\..\test1\public\index.html .
+  609  cp ..\..\test1\public\index.html .
+  610  pwd
+  611  ls ..
+  612  ls ..\..
+  613  ls ../..
+  614  cp ../../test1/public/index.html .
+  615  pwd
+  616  ls ..
+  617  ls ../..
+  618  ls ../../test
+  619  cp ../../test/public/index.html .
+  620  ls
+  621  git add index.html 
+  622  cd ..
+  623  ls
+  624  git status
+  625  touch .gitignore
+  626  echo "/node_modules" >> .gitignore
+  627  cat .gitignore 
+  628  clear
+  629  ls
+  630  npm init
+  631  ls
+  632  git init
+  633  git status
+  634  ls
+  635  npm install yarn
+  636  ls
+  637  ls -l
+  638  git status
+  639  ls -l
+  640  git add .
+  641  git status
+  642  ls
+  643  git commit -m "Story 001: Initial commit"
+  644  ls
+  645  git remote add origin git@github.com:rthmjc@gmail.com/npm-test2.git
+  646  git push origin master
+  647  git remote add origin git@github.com:rthmjc/npm-test2.git
+  648  git 
+  649  git help -g
+  650  git help remote
+  651  git remote remove git@github.com:rthmjc@gmail.com/npm-test2.git
+  652  git remote remove git@github.com:rthmjc@gmail.com
+  653  git remote add origin git@github.com:rthmjc/npm-test2.git
+  654  git remote
+  655  git remote remove origin
+  656  git remote add origin git@github.com:rthmjc/npm-test2.git
+  657  git push origin master
+  658  git remote remove origin
+  659  git remote add origin https://github.com/rthmjc/npm-test2.git
+  660  git push -u origin master
+  661  gi status
+  662  git status
+  663  history
+  664  ls
+  665  pwd
+  666  ls
+  667  ls -l
+  668  ls node_modules/
+  669  yarn add live-server
+  670  code .
+  671  git status
+  672  yarn run serve
+  673  y
+  674  history
+  675  history > t.txt
